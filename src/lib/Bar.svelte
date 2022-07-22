@@ -4,7 +4,7 @@
     <a href="/rule">규칙</a>&nbsp;&nbsp;&nbsp;&nbsp
 </div>
 <style>
-    .main{
+    .main {
         width: 100%;
         height: 50px;
         background-color: rgb(90, 90, 90);
