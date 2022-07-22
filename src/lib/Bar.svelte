@@ -5,6 +5,8 @@
 </div>
 <style>
     .main {
+        display: flex;
+  justify-content: center;
         width: 100%;
         height: 50px;
         background-color: rgb(90, 90, 90);
