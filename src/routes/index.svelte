@@ -1,5 +1,5 @@
 <script>
-    import Bar from '../lib/Bar.svelte'
+import Bar from '../lib/Bar.svelte'
 </script>
 
 <svelte:head><title>oc 커뮤 매인</title></svelte:head>

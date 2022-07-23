@@ -7,13 +7,17 @@
 
 <pre>
     메시지 관리자:
+    OTTO
+    악댁
     Blue Lawliet
     Klumg
+    FMM4ticks
+    클론
 
     홍보 관리자:
     Blue Lawliet
 
-    어드 : OTTO
+    어드 : OTTO, Clone
 </pre>
 
 
