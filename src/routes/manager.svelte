@@ -16,6 +16,9 @@
 
     홍보 관리자:
     Blue Lawliet
+    루부
+    클론
+    OTTO
 
     어드 : OTTO, Clone
 </pre>

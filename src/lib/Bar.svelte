@@ -2,7 +2,8 @@
     <b>oc community</b>
     <a href="/">홈</a>&nbsp;&nbsp;&nbsp;&nbsp
     <a href="/rule">규칙</a>&nbsp;&nbsp;&nbsp;&nbsp
-    <a href="/manager">관리자</a>
+    <a href="/manager">관리자</a>&nbsp;&nbsp;&nbsp;&nbsp
+    <a href="/about">정보</a>
 </div>
 <style>
     .main {
